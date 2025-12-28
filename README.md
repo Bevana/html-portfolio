@@ -1,4 +1,3 @@
 # html-portfolio
-<a href="https://bevana.github.io/html-portfolio/">View site here</a>
-
+View site here:
 https://bevana.github.io/html-portfolio/ 
